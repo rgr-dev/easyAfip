@@ -1,4 +1,4 @@
-# easeAfip
+# easyAfip
 
 A simple to use lib to connect with hard to use AFIP Soap WS
 
