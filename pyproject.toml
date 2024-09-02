@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "easyAfip"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
     "requests",
     "pytz",
@@ -17,7 +17,7 @@ authors = [
 ]
 description = "A simple to use lib to connect with hard to use AFIP Soap WS"
 readme = "README.md"
-requires-python = ">=3.8"
+requires-python = ">=3.12"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
@@ -25,5 +25,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/rgr-dev/easyAfip"
+Issues = "https://github.com/rgr-dev/easyAfip"
